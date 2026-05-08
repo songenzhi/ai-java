@@ -6,7 +6,11 @@
 <hr>
 
 
-# 🎨 Colorful Simple Calculator
+# 🎨 Colo
+
+
+
+ul Simple Calculator
 
 Java Swing을 활용한 **색상 테마가 적용된 간단한 계산기**입니다.  
 두 숫자를 입력받아 덧셈, 뺄셈, 곱셈, 나눗셈을 수행하고 결과를 메시지 다이얼로그로 보여줍니다.  
