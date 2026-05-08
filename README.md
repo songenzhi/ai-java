@@ -1,3 +1,7 @@
+# README.md 파일 작성
+## 부제목
+
+
 # 🎨 Colorful Simple Calculator
 
 Java Swing을 활용한 **색상 테마가 적용된 간단한 계산기**입니다.  
