@@ -1,5 +1,9 @@
 # README.md 파일 작성
-## 부제목
+## ai를 활용한 백엔드 개발
+
+<img width="879" height="360" alt="img" src="https://github.com/user-attachments/assets/05499ff4-4e8e-44a1-bd6d-e3d68a5e1672" />
+
+<hr>
 
 
 # 🎨 Colorful Simple Calculator
