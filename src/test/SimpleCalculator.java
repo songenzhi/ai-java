@@ -13,6 +13,7 @@ public class SimpleCalculator extends JFrame {
     private JTextField numField1;
     private JTextField numField2;
     private JLabel imageLabel;
+    private JLabel2 resultLabel;
 
     public SimpleCalculator() {
         setTitle("Colorful Calculator");
